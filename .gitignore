@@ -1,0 +1,9 @@
+lib/
+venv/
+*.txt
+.DS_Store
+pyvenv.cfg
+*.json
+scripts/__pycache__/
+scripts/module/__pycache__/
+scripts/module/exceptions/__pycache__/

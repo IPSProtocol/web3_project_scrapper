@@ -1,0 +1,2 @@
+class LocalChainUnavailable(Exception):
+    pass
